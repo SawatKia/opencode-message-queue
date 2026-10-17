@@ -1,0 +1,11 @@
+{
+  "name": "opencode-message-queue",
+  "version": "1.0.0",
+  "description": "Queue follow-up messages instead of interrupting a running turn, with a TUI bar for browse/reorder/send-now/cancel/edit.",
+  "type": "module",
+  "license": "MIT",
+  "keywords": ["opencode", "opencode-plugin", "queue", "inbox", "tui"],
+  "peerDependencies": {
+    "@opencode/plugin": "*"
+  }
+}
