@@ -110,4 +110,4 @@ index.
 
 ## License
 
-MIT
+[MIT](./LICENSE)
